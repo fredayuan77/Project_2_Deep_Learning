@@ -3,7 +3,7 @@
 
 ## Description
 ### Research Question
-This project aims to develop appropriate Deep Learning models to classify facial images into the "Good Guys" and "Bad Guys". The category is defined by the likelihood to commit crimes and engage in violent behaviors. The "Bad/ unsavory" individuals have high tendency of being "convicted felons." By comparison, "Good/ savory" individuals are more likely to be "ordinary" people who follow the laws.
+This project aims to develop appropriate Deep Learning models to classify human facial images into the "Good Guys" and "Bad Guys". The category is defined by the likelihood to commit crimes and engage in violent behaviors. The "Bad/ unsavory" individuals have high tendency of being "convicted felons." By comparison, "Good/ savory" individuals are more likely to be "ordinary" people who follow the laws.
 
 
 ### Dataset: 
